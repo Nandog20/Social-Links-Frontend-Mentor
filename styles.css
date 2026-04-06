@@ -69,7 +69,7 @@ section{
 
 .location{
     color: var(--green);
-    font-family: Inter-semibold;
+    font-family: Inter-semibold, sans-serif;
 }
 
 .bio{
@@ -90,7 +90,7 @@ section{
     width: 100%;
     background-color: var(--grey-700);
     padding: 10px 0;
-    font-family: Inter-semibold;
+    font-family: Inter-semibold, sans-serif;
     border-radius: 8px;
     transition: ease-in-out 0.3s;
 }
